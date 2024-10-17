@@ -1,0 +1,9 @@
+.h1 {
+  color: blue;
+}
+
+.h2 {
+  color: purple;
+}
+
+/* 다른 css 파일과 중복되지 않도록 css 파일을 유니크하게 변환시켜줌 */
